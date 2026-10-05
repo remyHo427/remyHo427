@@ -1,16 +1,17 @@
-## Hi there 👋
+## About
+I'm a full-stack web developer based in Taichung, Taiwan. My principle role is front-end web development though I've helped teams with other areas, I like compilers.
 
-<!--
-**remyHo427/remyHo427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How to reach me
+- Phone: +886 901 285 892
+- Email: remyho427@gmail.com
+- LINE ID: remyho427
+- Discord: guru.meditations
 
-Here are some ideas to get you started:
+## People I've worked with
+- [Dan Storms](https://www.linkedin.com/in/danstorms1/)
+- [Zach Phillips-Gary](https://www.linkedin.com/in/zach-p-854b05ab/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal projects I'm currently working on
+- [C Compiler in Go](https://github.com/remyHo427/gocc)
+
+
